@@ -1,6 +1,7 @@
 /**
  * @param {number} n
  * @return {number[][]}
+ * 1
  */
 var generateMatrix = function (n) {
   const spiral = new Array(n);
